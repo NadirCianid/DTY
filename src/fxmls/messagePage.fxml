@@ -5,14 +5,14 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="271.0" prefWidth="678.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="InterfaceControllers.MessagePageController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="271.0" prefWidth="678.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="interface_controllers.MessagePageController">
    <children>
-      <Label fx:id="messageTitleLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="241.0" layoutY="23.0" text="Заголовок сообщения" textAlignment="CENTER">
+      <Label fx:id="messageTitleLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="36.0" layoutY="25.0" prefHeight="27.0" prefWidth="607.0" text="Заголовок сообщения" textAlignment="CENTER">
          <font>
             <Font name="System Bold" size="18.0" />
          </font>
       </Label>
-      <Text fx:id="messageTextText" fill="RED" layoutX="115.0" layoutY="98.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="449.13671875">
+      <Text fx:id="messageTextText" layoutX="39.0" layoutY="95.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="600.13671875">
          <font>
             <Font size="18.0" />
          </font>

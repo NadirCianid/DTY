@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ac9161a-0535-441d-a979-78922b463ed8" name="Changes" comment="" />
+    <list default="true" id="2ac9161a-0535-441d-a979-78922b463ed8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTY.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DTY.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxmls/finalPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxmls/finalPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxmls/groupsInfo.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxmls/groupsInfo.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxmls/messagePage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxmls/messagePage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxmls/postFinalPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxmls/postFinalPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxmls/registrationPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxmls/registrationPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface_controllers/FinalPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_controllers/FinalPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface_controllers/GroupsInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_controllers/GroupsInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface_controllers/MessagePageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_controllers/MessagePageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface_controllers/PostFinalPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_controllers/PostFinalPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface_controllers/RegistrationPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_controllers/RegistrationPageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interface_controllers/StartPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_controllers/StartPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staff/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff/FacultyCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staff/FacultyCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staff/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staff/Registration.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2addu4lM0aZRUmFWrhEBw0qReCs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,13 +46,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Denis/Quasidisk D/Politech/Nesterov/Халтурка/Privezentseva/DTY/src/fxmls&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Denis\Quasidisk D\Politech\Nesterov\Халтурка\Privezentseva\DTY\src\fxmls" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="interface_controllers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.interface_controllers.StartPoint">
+    <configuration name="CustomDatePickerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomDatePickerExample" />
+      <module name="DTY" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.fxml,javafx.controls,javafx.graphics " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="interface_controllers.StartPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interface_controllers.StartPoint" />
+      <module name="DTY" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.fxml,javafx.controls,javafx.graphics " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interface_controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CustomDatePickerExample" />
+      <item itemvalue="Application.interface_controllers.StartPoint" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.interface_controllers.StartPoint" />
+        <item itemvalue="Application.CustomDatePickerExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,9 +108,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704652612003</updated>
-      <workItem from="1704652614893" duration="1000" />
+      <workItem from="1704652614893" duration="1744000" />
+      <workItem from="1704902224030" duration="14824000" />
+      <workItem from="1705057231388" duration="1934000" />
+      <workItem from="1705065817055" duration="2847000" />
+      <workItem from="1705091522327" duration="31000" />
+      <workItem from="1705149588576" duration="1308000" />
+      <workItem from="1705158026903" duration="612000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

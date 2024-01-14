@@ -8,15 +8,14 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.text.Font?>
 
-
-<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="interface_controllers.SignUpPageController">
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="interface_controllers.RegistrationPageController">
    <children>
       <Label layoutX="215.0" layoutY="40.0" text="Запись на факультатив">
          <font>
             <Font size="18.0" />
          </font>
       </Label>
-      <Label fx:id="groupNameLabel" layoutX="50.0" layoutY="76.0" prefHeight="19.0" prefWidth="303.0" text="Вы хотите записаться в группу 3530902/0001">
+      <Label fx:id="groupNameLabel" layoutX="50.0" layoutY="76.0" prefHeight="19.0" prefWidth="527.0" text="Вы хотите записаться в группу 3530902/0001">
          <font>
             <Font size="13.0" />
          </font>
@@ -34,7 +33,7 @@
                   <Font size="14.0" />
                </font>
             </Label>
-            <DatePicker fx:id="lessonDatePicker" onAction="#selectLessonDate" prefHeight="25.0" prefWidth="188.0" />
+            <DatePicker fx:id="activityDatePicker" onAction="#selectLessonDate" prefHeight="25.0" prefWidth="188.0" />
          </children>
       </HBox>
       <Button layoutX="468.0" layoutY="348.0" mnemonicParsing="false" onAction="#signUpForLesson" text="Записаться" />
