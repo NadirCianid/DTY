@@ -46,6 +46,9 @@ public class Group {
         groups.add(new Group("Рисование +", 12, FacultyCategory.PAINTING, 700, (short) 14));
         groups.add(new Group("Дебаты 2343", 8, FacultyCategory.DEBUTING_CLUB, 150, (short) 14));
         groups.add(new Group("Дебаты +", 16, FacultyCategory.DEBUTING_CLUB, 300, (short) 16));
+        groups.add(new Group("Бальные танцы 111", 24, FacultyCategory.DANCES, 400, (short) 6));
+        groups.add(new Group("Уроки треугольника", 3, FacultyCategory.MUSIC, 1000, (short) 16));
+        groups.add(new Group("Уроки вязания", 16, FacultyCategory.CROCHETING, 300, (short) 10));
     }
 
     public static List<Group> selectGroupsByCategory(FacultyCategory selectedCategory) {

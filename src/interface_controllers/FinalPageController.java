@@ -79,7 +79,7 @@ public class FinalPageController {
     // Метод для проверки номера телефона
     public static boolean isntPhoneNumberValid(String phoneNumber) {
         // Регулярное выражение для номера телефона: 10 цифр, первая - 7
-        String regex = "^7\\d{9}$";
+        String regex = "^7\\d{10}$";
 
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(phoneNumber);
